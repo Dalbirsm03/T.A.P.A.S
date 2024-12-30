@@ -6,12 +6,12 @@ Features
 
 * Real-Time Code Analysis: Analyzes the code visible on the developer's screen and identifies potential issues or improvements.
 
-Error Resolution: Detects and resolves errors by providing actionable suggestions without requiring the user to copy or paste error messages.
+* Error Resolution: Detects and resolves errors by providing actionable suggestions without requiring the user to copy or paste error messages.
 
-Code Suggestions: Offers optimized code snippets and alternatives tailored to the task at hand.
+* Code Suggestions: Offers optimized code snippets and alternatives tailored to the task at hand.
 
-Screen-Based Assistance: Operates entirely through screen sharing, eliminating the need for manual input or data transfer.
+* Screen-Based Assistance: Operates entirely through screen sharing, eliminating the need for manual input or data transfer.
 
-Multilingual Support: Supports multiple programming languages and frameworks.
+* Multilingual Support: Supports multiple programming languages and frameworks.
 
-Context-Aware Solutions: Provides solutions based on the specific context of the visible code or error messages.
+* Context-Aware Solutions: Provides solutions based on the specific context of the visible code or error messages.
