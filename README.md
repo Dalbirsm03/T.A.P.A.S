@@ -4,7 +4,7 @@ T.A.P.A.S.-(Technical Assistance Platform for Advanced Solution) is an advanced 
 
 Features
 
-Real-Time Code Analysis: Analyzes the code visible on the developer's screen and identifies potential issues or improvements.
+* Real-Time Code Analysis: Analyzes the code visible on the developer's screen and identifies potential issues or improvements.
 
 Error Resolution: Detects and resolves errors by providing actionable suggestions without requiring the user to copy or paste error messages.
 
