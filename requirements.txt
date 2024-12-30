@@ -1,0 +1,8 @@
+langchain_google_genai
+google-generativeai
+load_dotenv
+opencv-python
+pyautogui
+SpeechRecognition
+streamlit
+pywinauto
